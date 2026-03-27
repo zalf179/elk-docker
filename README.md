@@ -41,8 +41,8 @@ The project is deployed across two Virtual Machines (VMware) running **Ubuntu Se
 ### ELK Server Setup
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/elk-monitoring-project.git
-   cd elk-monitoring-project
+   git clone https://github.com/zalf179/elk-docker.git
+   cd elk-docker
    ```
 2. Start the stack:
    ```bash
